@@ -1,0 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cc05609c531074cf6884e4de2ec13dd4
+# Starting compiling UnityEngine.UI.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-530370909b0124b41b15b888011c8d2f
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-293df5479079c42f9b0019f37502c11e
+# Starting compiling UnityEditor.UI.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0237f032067e34718b13af9dd46a65d6
+# Starting compiling Unity.Services.Core.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1f3d7298a5d9c41699ffa37d86ca2951
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-07ec6b7a01e374037b2bced3e13ff3de
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b79c73d7771b94fa78df3204de9acf98
+# Starting compiling Unity.Timeline.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5b1ee11cbdc17486eab3500566ca4c65
+# Starting compiling Unity.TextMeshPro.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-759e2dce26cff492997bcbcf20abd928
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-69bb18afde81b46eeaa157f0f1bdca0b
+# Starting compiling Unity.Rider.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-181be547896cf48d782a75b02eebd1d9
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7df393ff70b2e476e9ba131f82d39cff
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-83a00ed417f764732995997de25c9c3d
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-07e837cfb9bad40e0b30b547477e2462
