@@ -1,0 +1,534 @@
+Unity Editor version:    2020.3.29f1 (2ff179115da0)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.1 (Build 22C65)
+Darwin version:          22.2.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/wangshuang/Desktop/学习/vvp/group13/vpp-group13/My project (8)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61051
+Successfully changed project path to: /Users/wangshuang/Desktop/学习/vvp/group13/vpp-group13/My project (8)
+/Users/wangshuang/Desktop/学习/vvp/group13/vpp-group13/My project (8)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.29f1 (2ff179115da0)
+[Subsystems] Discovering subsystems at path /Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/wangshuang/Desktop/学习/vvp/group13/vpp-group13/My project (8)/Assets
+GfxDevice: creating device client; threaded=0
+2023-04-17 22:56:51.130 Unity[55351:37933296] (null) preferred device: Apple M1 Pro (high power)
+2023-04-17 22:56:51.130 Unity[55351:37933296] Metal devices available: 1
+2023-04-17 22:56:51.130 Unity[55351:37933296] 0: Apple M1 Pro (high power)
+2023-04-17 22:56:51.130 Unity[55351:37933296] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56351
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001988 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 28.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.313 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1313ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1069ms)
+			LoadAssemblies (125ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (184ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (555ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (29ms)
+				BeforeProcessingInitializeOnLoad (23ms)
+				ProcessInitializeOnLoadAttributes (358ms)
+				ProcessInitializeOnLoadMethodAttributes (131ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002945 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.998 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1999ms)
+		BeginReloadAssembly (244ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (30ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1668ms)
+			LoadAssemblies (199ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (910ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (105ms)
+				ProcessInitializeOnLoadAttributes (757ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000102 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000185 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Users/wangshuang/Desktop/学习/vvp/2020.3.29f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.16 seconds
+Initializing Unity extensions:
+2023-04-17 22:56:56.252 Unity[55351:37933296] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fcd81b79b00 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2023-04-17 22:56:56.255 Unity[55351:37933296] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fcd81b73e40 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1503 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 70.6 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1977.
+Total: 2.296542 ms (FindLiveObjects: 0.065250 ms CreateObjectMapping: 0.030125 ms MarkObjects: 1.822125 ms  DeleteObjects: 0.378333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/淘宝店铺清悠素材.FBX
+  artifactKey: Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材.FBX using Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f0ed02c0dec51693cba5eeaa6f6314') in 1.312564 seconds 
+  Import took 1.318187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 420.786851 seconds.
+  path: Assets/淘宝店铺清悠素材.max
+  artifactKey: Guid(659a915b075c14fe999b52946b33ea10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材.max using Guid(659a915b075c14fe999b52946b33ea10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eec40c62353e1636e8bb8afd1b1e26a') in 0.072121 seconds 
+  Import took 0.082289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.612744 seconds.
+  path: Assets/淘宝店铺清悠素材c4d+fbx.c4d
+  artifactKey: Guid(9648c0c56f59742728371ff641af9b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材c4d+fbx.c4d using Guid(9648c0c56f59742728371ff641af9b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Assets/淘宝店铺清悠素材c4d+fbx.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+ -> (artifact id: 'b8761955bf2eb2432b1a7c36a43dc5c5') in 0.072714 seconds 
+  Import took 0.077508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 877.085654 seconds.
+  path: Assets/淘宝店铺清悠素材 1.FBX
+  artifactKey: Guid(4c3dbbe727d5a44eb89017d777d9e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材 1.FBX using Guid(4c3dbbe727d5a44eb89017d777d9e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e6d2fc19285ffc4970c9419746cdc0') in 0.095660 seconds 
+  Import took 0.110117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2277.156111 seconds.
+  path: Assets/FallowDeer(2010).fbx
+  artifactKey: Guid(3ffcd0c8ed5124d1eb9b5b85c67b779d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer(2010).fbx using Guid(3ffcd0c8ed5124d1eb9b5b85c67b779d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8298d83cca4712e9722e1d0190f6cbb0') in 0.745435 seconds 
+  Import took 0.768574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.013524 seconds.
+  path: Assets/FallowDeer(2012).fbx
+  artifactKey: Guid(78e6bd11614cd4df282d0fe291ea7f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer(2012).fbx using Guid(78e6bd11614cd4df282d0fe291ea7f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423500dc105b090312b8f5d205f41206') in 0.040028 seconds 
+  Import took 0.044049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.487505 seconds.
+  path: Assets/FallowDeer.dae
+  artifactKey: Guid(aac03af22d2f3496487e40862c7601d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer.dae using Guid(aac03af22d2f3496487e40862c7601d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3837c3b56fd13834db9c82160aef56c9') in 0.436768 seconds 
+  Import took 0.467154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/FallowDeerLOD3.dae
+  artifactKey: Guid(9b5d20e11d8bb4cd78a7343789aa34ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeerLOD3.dae using Guid(9b5d20e11d8bb4cd78a7343789aa34ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13264a97091ea9df86299a368a89db05') in 0.047144 seconds 
+  Import took 0.050466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/FallowDeerLOD2.dae
+  artifactKey: Guid(9325f2e54c52c41e6b7fb690d4deb9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeerLOD2.dae using Guid(9325f2e54c52c41e6b7fb690d4deb9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f32a379d768f54e8482ea9d2bc98cd') in 0.028997 seconds 
+  Import took 0.031828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/FallowDeerLOD1.dae
+  artifactKey: Guid(2666f60efac614c5a8494bd79d0a48e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeerLOD1.dae using Guid(2666f60efac614c5a8494bd79d0a48e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d834952962b94df4b114631725d5450') in 0.048824 seconds 
+  Import took 0.051796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.059548 seconds.
+  path: Assets/FallowDeer_NRM.jpg
+  artifactKey: Guid(a7812ac0128a04c73a22ebe27683dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer_NRM.jpg using Guid(a7812ac0128a04c73a22ebe27683dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb69d1b97e132caf159253321866dc93') in 0.703358 seconds 
+  Import took 0.713630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/FallowDeer_SPEC.jpg
+  artifactKey: Guid(a9f58b4187a114dd881b4bf488bc4f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer_SPEC.jpg using Guid(a9f58b4187a114dd881b4bf488bc4f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47d115ca91fed9cd78d11c049c495a3') in 0.010472 seconds 
+  Import took 0.013641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.211764 seconds.
+  path: Assets/FallowDeer.jpg
+  artifactKey: Guid(43c18ad5817e744cf9af5fecf4a0d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer.jpg using Guid(43c18ad5817e744cf9af5fecf4a0d7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b53a13d0120b1d36d4b3a4fd949a68a') in 0.010240 seconds 
+  Import took 0.012449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/淘宝店铺清悠素材 1.FBX
+  artifactKey: Guid(4c3dbbe727d5a44eb89017d777d9e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材 1.FBX using Guid(4c3dbbe727d5a44eb89017d777d9e9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fcf15c37f40798da4b159fc4d08d736') in 0.036527 seconds 
+  Import took 0.039574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.735224 seconds.
+  path: Assets/texture
+  artifactKey: Guid(d74244df731b94858b319e879d146f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture using Guid(d74244df731b94858b319e879d146f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36df6c676f5f684422a312d0c2f6c65e') in 0.004140 seconds 
+  Import took 0.034574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.456942 seconds.
+  path: Assets/淘宝店铺清悠素材 2.controller
+  artifactKey: Guid(824355c9eaf814a2896e9eb6a9a99625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材 2.controller using Guid(824355c9eaf814a2896e9eb6a9a99625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f3fa6927cb2843b0711013d8e1906e') in 0.149724 seconds 
+  Import took 0.154905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.422784 seconds.
+  path: Assets/淘宝店铺清悠素材 1.controller
+  artifactKey: Guid(0ae3de48cc4d641b381200c980d07ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材 1.controller using Guid(0ae3de48cc4d641b381200c980d07ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11edc6b819a73d501fa4b2574e0375a8') in 0.003121 seconds 
+  Import took 0.006588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.495108 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.003153 seconds 
+  Import took 0.041219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.910233 seconds.
+  path: Assets/der.mb
+  artifactKey: Guid(315bfc51e162b40c295caa33a570350a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/der.mb using Guid(315bfc51e162b40c295caa33a570350a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91980e5f105722737fbd01a31b10bb45') in 0.074985 seconds 
+  Import took 0.079974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.694829 seconds.
+  path: Assets/淘宝店铺清悠素材.FBX
+  artifactKey: Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材.FBX using Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422a6be0b07fb624f04064060ab6c1cd') in 0.104943 seconds 
+  Import took 0.107650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.166439 seconds.
+  path: Assets/FallowDeer_NRM.jpg
+  artifactKey: Guid(b59a499224635487f82a0bf74c20a743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer_NRM.jpg using Guid(b59a499224635487f82a0bf74c20a743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df7acff2876acc447a667dca908687b') in 0.012556 seconds 
+  Import took 0.015903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/FallowDeer_SPEC.jpg
+  artifactKey: Guid(cf96596d863cf454b87551d289d7472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer_SPEC.jpg using Guid(cf96596d863cf454b87551d289d7472b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e15dba691374353e3f930c6a77ba162') in 0.008756 seconds 
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.262408 seconds.
+  path: Assets/FallowDeer.jpg
+  artifactKey: Guid(a09796ab1e77945158bcfffd16caab01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallowDeer.jpg using Guid(a09796ab1e77945158bcfffd16caab01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4dde5ede474e3ef6185bb1febe178f') in 0.008822 seconds 
+  Import took 0.011197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/淘宝店铺清悠素材.FBX
+  artifactKey: Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/淘宝店铺清悠素材.FBX using Guid(e77ec29872c5644aa9d0f804f17ff9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4026e1920e862594d95dd74cc25185') in 0.034693 seconds 
+  Import took 0.037237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.877421 seconds.
+  path: Assets/04跑步.max
+  artifactKey: Guid(1d90b20b1a52046c8b3f879e66c8fb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04跑步.max using Guid(1d90b20b1a52046c8b3f879e66c8fb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6ec6c97b807c4929bcfa8e2a1b753d') in 0.024500 seconds 
+  Import took 0.049958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.385025 seconds.
+  path: Assets/九色鹿c.tga
+  artifactKey: Guid(059e259f4926a43c1952d9c7a2ac2f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/九色鹿c.tga using Guid(059e259f4926a43c1952d9c7a2ac2f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd41254b435d4c72a1f712f690734957') in 0.743403 seconds 
+  Import took 0.748540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 544.300791 seconds.
+  path: Assets/dunhuang.FBX
+  artifactKey: Guid(ea5070f4bb8dc42e3847c9f7afa1e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dunhuang.FBX using Guid(ea5070f4bb8dc42e3847c9f7afa1e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d29fa5b36de5bfa26de6c3058434c') in 0.433781 seconds 
+  Import took 0.444691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.155214 seconds.
+  path: Assets/dunhuang.FBX
+  artifactKey: Guid(ea5070f4bb8dc42e3847c9f7afa1e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dunhuang.FBX using Guid(ea5070f4bb8dc42e3847c9f7afa1e595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f6dbf6641691f3c23bb2581a7477b9') in 0.377626 seconds 
+  Import took 0.388782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Tex_0013_0.dds
+  artifactKey: Guid(581a46ce6607742be972c895ba7cfe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tex_0013_0.dds using Guid(581a46ce6607742be972c895ba7cfe98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f787634ab8759cd026557a3272030d') in 0.662686 seconds 
+  Import took 0.667587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.522865 seconds.
+  path: Assets/花角鹿.fbx
+  artifactKey: Guid(13d3be7eee0fc4471aa84b072fe074c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/花角鹿.fbx using Guid(13d3be7eee0fc4471aa84b072fe074c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea05dbecb9e13e4a4a67128a3ede3e42') in 0.420768 seconds 
+  Import took 0.437058 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002733 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2023-04-18 00:26:26.933 Unity[55351:37933296] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7fcdb0f87fa0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.679 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2693ms)
+		BeginReloadAssembly (497ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (57ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (185ms)
+		EndReloadAssembly (2096ms)
+			LoadAssemblies (301ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (284ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (1254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (1041ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (37ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.85 GB.
+System memory in use after: 0.85 GB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 1.942667 ms (FindLiveObjects: 0.084000 ms CreateObjectMapping: 0.027792 ms MarkObjects: 1.798167 ms  DeleteObjects: 0.032042 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 148.298244 seconds.
+  path: Assets/花角鹿.c4d
+  artifactKey: Guid(3ee59e3fc2472440280cdad238a6713d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/花角鹿.c4d using Guid(3ee59e3fc2472440280cdad238a6713d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Assets/花角鹿.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+ -> (artifact id: 'fbdf74ad327d95b115b95036ab114283') in 0.079851 seconds 
+  Import took 0.091065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.573489 seconds.
+  path: Assets/土面2.tga
+  artifactKey: Guid(4b7bfcadfa7d445e5898eb39129344b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/土面2.tga using Guid(4b7bfcadfa7d445e5898eb39129344b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97063f324824c20c5b51697574c7258') in 0.129385 seconds 
+  Import took 0.133787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.241296 seconds.
+  path: Assets/图素.max
+  artifactKey: Guid(ef6f62fb3fb8d4f3abd09280482d63a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/图素.max using Guid(ef6f62fb3fb8d4f3abd09280482d63a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbecda77928437b274d6566999e60a7') in 0.005308 seconds 
+  Import took 0.008067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.329010 seconds.
+  path: Assets/佛像群组.tga
+  artifactKey: Guid(d3f4b03b0407b413bb5cb678d7f30808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/佛像群组.tga using Guid(d3f4b03b0407b413bb5cb678d7f30808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f480324e063629000eea697f32675608') in 0.049318 seconds 
+  Import took 0.057132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.451388 seconds.
+  path: Assets/佛像群组.max
+  artifactKey: Guid(33970f0e3624e4a56a1a15d803951bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/佛像群组.max using Guid(33970f0e3624e4a56a1a15d803951bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fcd55ae401ff21f7fb7f8bee2b5a01') in 0.005730 seconds 
+  Import took 0.010531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 793.081839 seconds.
+  path: Assets/佛像群组.fbx
+  artifactKey: Guid(9a7b11459593148daa14529238d235be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/佛像群组.fbx using Guid(9a7b11459593148daa14529238d235be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7767edf72a748989805a179f43be0c9c') in 1.761382 seconds 
+  Import took 1.806952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.908049 seconds.
+  path: Assets/dir011.jpg
+  artifactKey: Guid(937cd23eda0cb4fc58ff87fdb3cfa2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dir011.jpg using Guid(937cd23eda0cb4fc58ff87fdb3cfa2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128d42050b62d5823f65f72abbedb93a') in 0.043967 seconds 
+  Import took 0.053407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/佛像群组.fbx
+  artifactKey: Guid(9a7b11459593148daa14529238d235be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/佛像群组.fbx using Guid(9a7b11459593148daa14529238d235be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567850cdf5a256de5cb100069f5eb3bb') in 0.990465 seconds 
+  Import took 1.004308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/DIR014.JPG
+  artifactKey: Guid(67c1038dcac9a4f53851728aa41282d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DIR014.JPG using Guid(67c1038dcac9a4f53851728aa41282d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78d184c6c55c6feadbc0d0a5160afa9') in 0.576653 seconds 
+  Import took 0.582847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001141 seconds.
+  path: Assets/dir013.jpg
+  artifactKey: Guid(8ad5a8abfb90d45678bf3a20419d41f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dir013.jpg using Guid(8ad5a8abfb90d45678bf3a20419d41f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b94f3436b49da2423247273542a4695') in 0.015145 seconds 
+  Import took 0.017242 seconds .
+
